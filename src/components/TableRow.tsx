@@ -1,7 +1,6 @@
 import React, {Component} from 'react';
 import {StyleSheet, View} from 'react-native';
 import {TableCell} from './TableCell';
-import 'react-native-get-random-values';
 import {TTableRow} from '../store/Store';
 import {observer} from 'mobx-react';
 import {computed} from 'mobx';
